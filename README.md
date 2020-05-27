@@ -23,5 +23,6 @@ The unzipped folder will have the following files.
 The leaderboard is evaluated using Multi Class Log loss (Cross-entropy loss) for the participant’s submission.
 
 # Leaderboard
-Secured 19th rank
+## Secured 19th rank
+
 ![](rank.png)
