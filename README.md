@@ -19,7 +19,9 @@ The unzipped folder will have the following files.
     Sample Submission – Sample format for the submission.
     Started Notebook – A simple benchmark notebook.
 
+# Evaluation
+The leaderboard is evaluated using Multi Class Log loss (Cross-entropy loss) for the participant’s submission.
 
-    Evaluation
-
-    The leaderboard is evaluated using Multi Class Log loss (Cross-entropy loss) for the participant’s submission.
+# Leaderboard
+Secured 19th rank
+![](rank.png)
