@@ -1,1 +1,1 @@
-# MachineHack-Classifying-Movie-Scripts
+# Classifying Movie Scripts : Predict The Movie Genre
